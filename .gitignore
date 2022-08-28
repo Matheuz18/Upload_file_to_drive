@@ -1,0 +1,11 @@
+temp_.py
+__pycache__
+.idea
+~
+control_google/client_secrets.json
+control_google/credentials.json
+control_google/settings.yaml
+control_google/.gitkeep
+README.md
+__init__.py
+templates
